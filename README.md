@@ -1,2 +1,2 @@
-# C# codes
- C# and object oriented programming basics.
+# C# basics
+Object Oriented Programming with C#.
